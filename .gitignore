@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data and outputs (keep schema, ignore generated db)
+data/*.db
+data/*.csv
+
+# Excel outputs
+models/*.xlsx
+
+# Metabase
+metabase/metabase-data/
+metabase/*.db
+
+# OS
+.DS_Store
+Thumbs.db
