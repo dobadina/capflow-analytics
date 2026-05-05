@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CapFlow Analytics
 
 Commercial analytics portfolio project built to demonstrate Strategy Analyst capabilities.
@@ -42,6 +41,3 @@ capflow-analytics/
 ├── sql/                # Standalone SQL queries for Metabase
 └── metabase/           # Docker config
 
-=======
-# capflow-analytics
->>>>>>> c089803475ffc2bfb0419f9dfa3a42a383d569ee
