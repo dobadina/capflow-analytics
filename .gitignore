@@ -9,7 +9,6 @@ __pycache__/
 *.ipynb_checkpoints
 
 # Data and outputs (keep schema, ignore generated db)
-data/*.db
 data/*.csv
 
 
