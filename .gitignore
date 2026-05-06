@@ -12,8 +12,6 @@ __pycache__/
 data/*.db
 data/*.csv
 
-# Excel outputs
-models/*.xlsx
 
 # Metabase
 metabase/metabase-data/
